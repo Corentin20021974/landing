@@ -1,0 +1,28 @@
+.banner {
+background-image: url('../../image/rolex.jpg');
+padding: 135px 0px;
+background-position: center;
+height: 500px;
+}
+
+.banner h1 {
+color: #5C3D2E;
+font-size: 50px;
+font-family: 'Open Sans Condensed', serif;
+text-shadow: #C3BA85 2.5px 2.5px 0;
+text-align: center;
+#DAD5AB 5px 5px 0, 
+#F0F0CB 7.5px 7.5px 0,
+#FEFFE2 10px 10px 10px; color: #FEFFE2;
+margin-top: 0px;
+}
+
+
+.banner h2 {
+color: white;
+font-size: 30px;
+font-weight: lighter;
+font-family: 'Open Sans Condensed';
+opacity: 0.8;
+margin-bottom: 20px;
+}
